@@ -34,10 +34,5 @@ To run this system engine on your local development system, follow these executi
 
 1. **Clone the repository:**
    ```bash
-<<<<<<< HEAD
    git clone [https://github.com/tourguiabderrahim/calcnotes.git](https://github.com/tourguiabderrahim/calcnotes.git)
    cd calcnotes
-=======
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
->>>>>>> b47346a7b28a2d34b38249edb28a9fb23880f18d
